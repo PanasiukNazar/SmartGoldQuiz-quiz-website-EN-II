@@ -4,35 +4,30 @@ const QUESTIONS = [
         answers: ['18-25', '25-35', '35-45', '45-55', '55+'],
     },
     {
-        label: 'What are your financial objectives?',
+        label: 'What are your key goals when it comes to growing your wealth?',
         answers: [
-            'Build a financial safety net for emergencies',
-            'Ensure support for you and your family',
-            'Achieve financial independence',
-            'Remodel or purchase a home',
+            'Achieve financial security and peace of mind',
+            'Generate passive income for lifestyle improvements',
+            'Build wealth to leave a legacy for my family',
+            'Take calculated risks for potential high returns',
         ],
     },
     {
-        label: 'Which option would you feel most comfortable with?',
+        label: 'What is your experience level with investing in gold and other financial assets?',
         answers: [
-            'Gold mining stocks',
-            'Physical gold bars or coins',
-            'Gold exchange-traded funds (ETFs)',
-            'Gold futures contracts',
-            'Gold jewelry',
+            'Im completely new to investing.',
+            'Ive invested in gold but not much in other assets.',
+            'Im experienced with both gold and other types of investments.',
+            'I have some experience in the stock market, but not in gold.',
         ],
     },
     {
-        label: 'Which factor would influence to buy or sell?',
+        label: 'How actively do you prefer to manage your investment portfolio?',
         answers: [
-            'Rising inflation rates',
-            'Global political events',
-            'Stock market fluctuations',
+            'I prefer a hands-off approach and long-term stability.',
+            'I can dedicate occasional time but prefer simplicity.',
+            'I enjoy staying involved and regularly adjusting my portfolio.',
         ],
-    },
-    {
-        label: 'How likely are you to consider adding gold to your portfolio?',
-        answers: ['Very likely', 'Likely', 'Neutral', 'Unlikely', 'Never'],
     },
 ];
 
