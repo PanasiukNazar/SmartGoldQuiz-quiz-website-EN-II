@@ -3834,6 +3834,12 @@ input[type='checkbox'] {
     padding: 15px;
 }
 
+@media (max-width: 540px) {
+    .quiz-content .form-control {
+        padding: 10px;
+    }
+}
+
 .hide {
     display: none;
 }
